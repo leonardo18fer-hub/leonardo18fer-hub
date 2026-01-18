@@ -1,5 +1,5 @@
 ## Eu sou o Leonardo Fernandes
-- Estou no segundo período de Analise e Desenvolvimento de Sistemas 💻📚
+- Analise e Desenvolvimento de Sistemas 💻📚
 - Especializando em Cibersegurança
 - Certificados da Cisco e Aws
 
