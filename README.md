@@ -30,9 +30,14 @@ Me chamo Leonardo Fernandes da Silva, tenho 23 anos e sou natural do Rio de Jane
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo18fer-hub&layout=compact)](https://github.com/leonardo18fer-hub)
 
 
-## 🐍 Contributions Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60"/>
+</p>
 
-![Snake animation](https://github.com/leonardo18fer-hub/leonardo18fer-hub/blob/output/github-contribution-grid-snake.svg)
 
 
 
