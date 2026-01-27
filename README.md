@@ -27,6 +27,13 @@ Me chamo Leonardo Fernandes da Silva, tenho 23 anos e sou natural do Rio de Jane
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardo18fer-hub&show_icons=true&theme=radical)](https://github.com/leonardo18fer-hub)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo18fer-hub&layout=compact)](https://github.com/leonardo18fer-hub)
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardo18fer-hub&theme=dracula&show_icons=true)
+
+
+
 
 
 
