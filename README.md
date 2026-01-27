@@ -30,9 +30,11 @@ Me chamo Leonardo Fernandes da Silva, tenho 23 anos e sou natural do Rio de Jane
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo18fer-hub&layout=compact)](https://github.com/leonardo18fer-hub)
 
 
-<p align="center">
-  <img src="URL_DO_GIF" width="400"/>
-</p>
+
+
+
+![Tech GIF criativo](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9e4606da-0f81-4537-97b6-1bc18bd9b3a1/dcq2u75-29323981-19d6-4fda-89df-fa28c7dd720e.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi85ZTQ2MDZkYS0wZjgxLTQ1MzctOTdiNi0xYmMxOGJkOWIzYTEvZGNxMnU3NS0yOTMyMzk4MS0xOWQ2LTRmZGEtODlkZi1mYTI4YzdkZDcyMGUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.JIZTz5x-9siQuWypI-xMSxumUTVXq0ff7MoYyR_SbBE)
+
 
 
 
